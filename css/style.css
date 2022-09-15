@@ -1,0 +1,16 @@
+
+*{
+padding: 0;
+margin:0;
+box-sizing: border-box; /*retirada todo padding e border dos elementos*/
+font-family: Helvetica;
+}
+
+/* Cabeçalho */
+
+Header {
+    background-color: #3db36b;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
